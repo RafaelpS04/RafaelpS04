@@ -1,16 +1,19 @@
-## Hi there 👋
+## BEM VINDO 
 
-<!--
-**RafaelpS04/RafaelpS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é *Rafaél Pereira da Silva* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou um estudante do ensino médio que largou  curso técnico de DI
+- Gosto de culinária
+- Estudo bateria e baixo
+- Pretendo me formar em algo a ver com arte ou DI
+
+## ENTRE EM CONTATO COMIGO
+
+rafaelpereiradasilva815@gmail.com
+
+@rafael.p.silva04
+
+
+
+
